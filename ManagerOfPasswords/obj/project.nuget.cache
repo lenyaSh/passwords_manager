@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQjMysN3AxH8Pc8W+LWRaHfK0dRZSO+yjIPJvCCpqkY2VCPB69yJnrT6YQQQ7ix3GUcvbkq7O4IrikL5KfICZQ==",
+  "success": true,
+  "projectFilePath": "D:\\proj\\passwords_manager\\ManagerOfPasswords\\ManagerOfPasswords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiri\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\shiri\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512",
+    "C:\\Users\\shiri\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\shiri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
